@@ -1,5 +1,5 @@
-name: EasyWing
-main: phuongaz\EasyWing\Loader
+name: PEWings
+main: RassyaYa\PEWings\Loader
 author: phuongaz
-version: 1.0.7
-api: 4.0.0
+version: 1.0.0
+api: 5.0.0
