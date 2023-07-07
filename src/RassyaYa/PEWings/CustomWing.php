@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace phuongaz\EasyWing;
+namespace RassyaYa\PEWings;
 
 use pocketmine\entity\Location;
 use pocketmine\math\Vector3;
-use phuongaz\EasyWing\utils\Utils;
+use RassyaYa\PEWings\utils\Utils;
 
 class CustomWing {
 
