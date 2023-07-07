@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace phuongaz\EasyWing\task;
+namespace RassyaYa\PEWings\task;
 
 use pocketmine\scheduler\Task;
 use pocketmine\player\Player;
-use phuongaz\EasyWing\CustomWing;
+use RassyaYa\PEWings\CustomWing;
 
 Class WingTask extends Task{
 
