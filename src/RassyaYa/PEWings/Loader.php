@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace phuongaz\EasyWing;
+namespace RassyaYa\PEWings;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
@@ -15,10 +15,10 @@ use pocketmine\event\player\PlayerQuitEvent;
 use pocketmine\utils\SingletonTrait;
 use pocketmine\utils\Config;
 use pocketmine\math\Vector3;
-use phuongaz\EasyWing\task\WingTask;
-use phuongaz\EasyWing\command\WingsCommand;
-use phuongaz\EasyWing\utils\Particles;
-use phuongaz\EasyWing\utils\Utils;
+use phuongaz\PEWings\task\WingTask;
+use phuongaz\PEWings\command\WingsCommand;
+use phuongaz\PEWings\utils\Particles;
+use phuongaz\PEWings\utils\Utils;
 
 Class Loader extends PluginBase implements Listener{
     use SingletonTrait;
