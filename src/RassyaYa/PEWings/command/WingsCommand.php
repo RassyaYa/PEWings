@@ -1,13 +1,13 @@
 <?php
 
-namespace phuongaz\EasyWing\command;
+namespace RassyaYa\PEWings\command;
 
 use pocketmine\command\{
 	Command,
 	CommandSender
 };
 use pocketmine\player\Player;
-use phuongaz\EasyWing\form\WingsForm;
+use RassyaYa\PEWings\form\WingsForm;
 
 Class WingsCommand extends Command{
 
