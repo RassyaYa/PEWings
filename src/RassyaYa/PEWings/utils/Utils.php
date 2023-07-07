@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace phuongaz\EasyWing\utils;
+namespace RassyaYa\PEWings\utils;
 
 use pocketmine\player\Player;
 use pocketmine\Server;
