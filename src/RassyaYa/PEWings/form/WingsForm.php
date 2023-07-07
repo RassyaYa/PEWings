@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace phuongaz\EasyWing\form;
+namespace RassyaYa\PEWings\form;
 
 use pocketmine\player\Player;
 use jojoe77777\FormAPI\SimpleForm;
-use phuongaz\EasyWing\Loader;
+use RassyaYa\PEWings\Loader;
 
 Class WingsForm{
 
